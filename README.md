@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m Abhilasha.<br>🌱 I’m currently learning DevOps.<br>👯 I’m looking to collaborate on new learning projects and innovative software solutions.
 
-![](https://komarev.com/ghpvc/?username=abhilashagunawardhana)
+#![](https://komarev.com/ghpvc/?username=abhilashagunawardhana)
 
 
 ## 🌐 Socials:
