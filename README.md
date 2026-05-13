@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="./images/readme_background.png" alt="code with abhilasha" />
 </div>
 
